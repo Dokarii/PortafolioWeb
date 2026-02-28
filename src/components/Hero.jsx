@@ -29,7 +29,7 @@ function Hero() {
             Ver Proyectos
             <ArrowRight size={18} />
           </a>
-          <a href="mailto:contact@example.com" className="btn-secondary">
+          <a href="mailto:tejedoranayaricardo@gmail.com" className="btn-secondary">
             Contáctame
           </a>
         </div>

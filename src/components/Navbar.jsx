@@ -16,13 +16,13 @@ function Navbar() {
         </ul>
         
         <div className="nav-socials">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+          <a href="https://github.com/Dokarii" target="_blank" rel="noopener noreferrer" className="social-icon">
             <Github size={20} />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+          <a href="https://www.linkedin.com/in/ricardo-tejedor-3812053b4?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer" className="social-icon">
             <Linkedin size={20} />
           </a>
-          <a href="mailto:contact@example.com" className="social-button">
+          <a href="mailto:tejedoranayaricardo@gmail.com" className="social-button">
             <Mail size={18} />
             <span>Contacto</span>
           </a>

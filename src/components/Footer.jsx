@@ -28,13 +28,13 @@ function Footer() {
         <div className="footer-social">
           <h3>Contacto</h3>
           <div className="social-icons">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Dokarii" target="_blank" rel="noopener noreferrer">
               <Github size={20} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/ricardo-tejedor-3812053b4?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer">
               <Linkedin size={20} />
             </a>
-            <a href="mailto:contact@example.com">
+            <a href="mailto:tejedoranayaricardo@gmail.com">
               <Mail size={20} />
             </a>
           </div>
