@@ -44,12 +44,13 @@ function Hero() {
 {`class Developer {
   constructor() {
     this.name = 'Ricardo';
-    this.role = 'Software Engineer';
-    this.passion = 'Building great UX';
+    this.role = 'Desarrollador de Software';
+    this.passion = 'Programar ideas';
   }
 
   code() {
-    return 'Transforming ideas into reality';
+    return 'Si lo puedes imaginar,
+    lo puedes programar;
   }
 }`}
             </code>
