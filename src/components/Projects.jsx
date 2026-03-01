@@ -47,7 +47,7 @@ function Projects() {
       <div className="section-header">
         <h2 className="section-title">Proyectos <span className="text-accent">Destacados</span></h2>
         <p className="section-subtitle">
-          Una selección los trabajos más significativos para mí, así tambien los más recientes.
+          Una selección de mis mejores trabajos, así tambien los más recientes.
         </p>
       </div>
       
