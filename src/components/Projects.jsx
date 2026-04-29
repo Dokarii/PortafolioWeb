@@ -16,7 +16,7 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Python Fundamentals for Data Science",
+    title: "Jupyter Notebooks Projects",
     description:
       "Repositorio de GitHub con micro-proyectos que forman parte de un roadmap estructurado de autoaprendizaje para la especialización en Ciencia de Datos y Machine Learning. \n\nFoto de Chris Ried en Unsplash.",
     image:
