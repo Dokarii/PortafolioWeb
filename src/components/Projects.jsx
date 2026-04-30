@@ -25,6 +25,17 @@ const projectsData = [
     demoUrl: "https://github.com/Dokarii/Python-Fundamentals-for-Data-Science",
     repoUrl: "https://github.com/Dokarii/Python-Fundamentals-for-Data-Science",
   },
+  {
+    id: 3,
+    title: "VideoGrab",
+    description:
+      "Aplicación de escritorio para Windows que descarga videos de diferentes plataformas en máxima calidad.\n\nImagen de Mariia Shalabaieva en Unsplash",
+    image:
+      "https://images.unsplash.com/photo-1683721003111-070bcc053d8b?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    tags: ["Python", "CustomTkinter", "yt-dlp"],
+    demoUrl: "https://github.com/Dokarii/VideoGrab",
+    repoUrl: "https://github.com/Dokarii/VideoGrab",
+  },
 ];
 
 function Projects() {
