@@ -42,7 +42,7 @@ function Footer() {
               <Github size={20} />
             </a>
             <a
-              href="https://www.linkedin.com/in/ricardo-tejedor-3812053b4?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+              href="https://www.linkedin.com/in/tejedorricardo/"
               target="_blank"
               rel="noopener noreferrer"
             >
